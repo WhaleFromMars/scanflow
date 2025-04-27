@@ -6,9 +6,9 @@ edition = "2018"
 license = "MIT"
 description = "memory scanning library based on memflow"
 documentation = "https://docs.rs/scanflow"
-categories = [ "parsing", "os", "memory-management" ]
-keywords = [ "scanflow", "memflow", "cheatengine", "memory", "dma" ]
-sitory = "https://github.com/h33p/scanflow"
+categories = ["parsing", "os", "memory-management"]
+keywords = ["scanflow", "memflow", "cheatengine", "memory", "dma"]
+repository = "https://github.com/h33p/scanflow"
 readme = "../README.md"
 
 [dependencies]
